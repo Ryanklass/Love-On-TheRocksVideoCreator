@@ -1,0 +1,3 @@
+FLASK_APP=youtube_shorts_generator.py
+FLASK_ENV=development
+FLASK_DEBUG=1
